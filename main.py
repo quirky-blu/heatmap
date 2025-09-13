@@ -23,7 +23,7 @@ app.add_middleware(
 
 geojson_parts = {}
 
-INPUT_DIR = "resources/split_heat_map"
+INPUT_DIR = ""
 FILENAME_PATTERN = "indore_roads_density_grid_part_{}.geojson"
 NUM_PARTS = 3
 
